@@ -1,4 +1,4 @@
-### - The original project https://store.kde.org/p/1938698
+### [The original project](https://store.kde.org/p/1938698)
 
 ihave just updated the plasma 6 support
 
