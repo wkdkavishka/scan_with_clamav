@@ -1,3 +1,7 @@
+### - The original project https://store.kde.org/p/1938698
+
+ihave just updated the plasma 6 support
+
 # Scan with ClamAV service menu
 
 This service menu accomplishes its primary function, the virus scanning through ClamAV
@@ -9,7 +13,8 @@ instances (Konsole).
 
 ## Features
 
-These are the *Scan with ClamAV* service menu features:
+These are the _Scan with ClamAV_ service menu features:
+
 - Fully translated into 4 languages besides English
   (French, German, Italian, Spanish);
 - Works from within the Dolphin, Konqueror, Krusader, and KFind-results context menu;
@@ -26,12 +31,13 @@ These are the *Scan with ClamAV* service menu features:
 ## Install
 
 The recommended methods are:
+
 - The settings interface from Dolphin:
-  * From Settings > Context Menu > Download new services;
-  * Search for "scan_with_clamav".
+  - From Settings > Context Menu > Download new services;
+  - Search for "scan_with_clamav".
 - The Discover application:
-  * Under Application Addons > Servicemenu;
-  * Search for: "scan_with_clamav".
+  - Under Application Addons > Servicemenu;
+  - Search for: "scan_with_clamav".
 
 That way the latest stable version is installed and updated with ease,
 and also it easy to remove as well, still using the mentioned applications.
@@ -47,6 +53,7 @@ For debugging purpose follow one of the other methods mentioned on the [project 
 
 If you like this addon and want to encourage me to improve the project or keep it
 regularly updated, you can:
+
 - Become a fan and add a positive rating on the [Pling page][pling];
 - Star it here on the [GitHub page][github];
 - Report bugs or malfunctions or even ask for new features, just opening an issue
@@ -56,8 +63,8 @@ regularly updated, you can:
 ## Acknowledgments
 
 Thanks to:
+
 - Sommerwiesel@GitHub for the initial commit
-- The original project https://store.kde.org/p/1938698
 
 [download]: https://freeaptitude.altervista.org/downloads/scan-with-clamav.html "Scan with ClamAV download page on FreeAptitude"
 [changelog]: https://freeaptitude.altervista.org/downloads/scan-with-clamav.html#changelog "Scan with ClamAV changelog on FreeAptitude"
