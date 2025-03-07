@@ -1,0 +1,10 @@
+[=] Started to install scan_with_clamav
+[>] No --install or --uninstall parameter given, default to --install
+[*] N. Parameters: 0
+[*] Desktop Environment: Plasma 6
+[*] Source path: .
+[*] Destination path: /home/wkdk/.local/share/kio/servicemenus
+[*] Parameter: --install
+[>] Installing: scan_with_clamav.desktop
+[V] Service Menu installed!
+[V] Permissions correctly applied
